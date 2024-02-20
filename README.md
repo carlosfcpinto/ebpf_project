@@ -1,1 +1,3 @@
-# ebpf_project
+# Simple eBPF application template
+
+Testing templates
